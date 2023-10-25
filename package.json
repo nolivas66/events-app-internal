@@ -1,14 +1,14 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scary Things Happen",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "mocha --exit"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stephen King",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
